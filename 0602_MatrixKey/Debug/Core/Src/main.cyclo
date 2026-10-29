@@ -1,0 +1,5 @@
+../Core/Src/main.c:53:13:MatrixKey_Scan	9
+../Core/Src/main.c:98:5:main	1
+../Core/Src/main.c:143:6:SystemClock_Config	3
+../Core/Src/main.c:183:13:MX_GPIO_Init	1
+../Core/Src/main.c:223:6:Error_Handler	1
